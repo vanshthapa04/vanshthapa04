@@ -136,8 +136,8 @@ Job seekers rarely know why their resume gets filtered out by ATS systems. Recru
 
 **Stack:** `Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `AI APIs`
 
-<a href="https://github.com/vanshthapa04"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/vanshthapa04/RecruiterLens"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://recruiter-lens-vanshthapa04s-projects.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -163,8 +163,8 @@ Onboarding onto an unfamiliar codebase is slow. RepoMind AI reads the repo and h
 
 **Stack:** `React.js` `Node.js` `Express.js` `Vite` `Tailwind CSS` `GitHub REST API` `Google Gemini API` `Framer Motion`
 
-<a href="https://github.com/vanshthapa04"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/vanshthapa04/RepoMindAI"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://repo-mind-ai.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -186,8 +186,8 @@ Career prep is fragmented across tools. HireReady AI consolidates resume optimiz
 
 **Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
 
-<a href="https://github.com/vanshthapa04"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/vanshthapa04/HireReadyAI-frontend-"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://hire-ready-ai-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -212,8 +212,8 @@ Small teams and educators need a lightweight LMS without enterprise bloat. Knowl
 
 **Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
 
-<a href="https://github.com/vanshthapa04"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/vanshthapa04/EdTechApp"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://ed-tech-app-five.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -236,8 +236,8 @@ A static resume doesn't showcase real engineering work. This portfolio presents 
 
 **Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-<a href="https://github.com/vanshthapa04"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/vanshthapa04/Portfolio"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://vansh-portfolio-051.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 </td>
 </tr>
