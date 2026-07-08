@@ -1,7 +1,8 @@
 <div align="center">
 
-# VANSH THAPA
-### Full Stack Developer &middot; Building Scalable Web &amp; AI-Powered Tools
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=44&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=VANSH+THAPA&repeat=false" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=100000&color=8B5CF6&center=true&vCenter=true&width=750&height=40&lines=Full+Stack+Developer+%C2%B7+Building+Scalable+Web+%26+AI-Powered+Tools&repeat=false" />
 
 <br/>
 
@@ -10,9 +11,9 @@
 <br/><br/>
 
 <a href="https://github.com/vanshthapa04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="<<ADD_LINKEDIN>>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="<<ADD_PORTFOLIO>>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:<<ADD_EMAIL>>"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vansh-thapa-8b0169255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://vansh-portfolio-051.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:vanshthapa14988@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
 
@@ -20,18 +21,6 @@
 <img src="https://img.shields.io/github/followers/vanshthapa04?label=Followers&style=flat-square&color=8B5CF6" />
 
 </div>
-
-<br/>
-
-```
-[ BANNER OPTIONS — pick one and swap the header image URL above ]
-
-1. Minimal Dark Theme        → clean typography on matte black, single accent line, no clutter
-2. AI + Coding Theme         → subtle circuit/neural-net line-art behind terminal-style name lockup
-3. Glassmorphism Workspace   → frosted-glass panel over a blurred code editor, soft purple/blue glow
-```
-
-<br/>
 
 ## ⟢ About Me
 
