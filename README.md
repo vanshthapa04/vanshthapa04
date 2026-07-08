@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=220&section=header&text=VANSH%20THAPA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Web%20%26%20AI%20Products&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+# VANSH THAPA
+### Full Stack Developer &middot; Building Scalable Web &amp; AI-Powered Tools
 
 <br/>
 
@@ -9,9 +10,9 @@
 <br/><br/>
 
 <a href="https://github.com/vanshthapa04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/vansh-thapa-8b0169255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://vansh-portfolio-051.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:vanshthapa14988@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="<<ADD_LINKEDIN>>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="<<ADD_PORTFOLIO>>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:<<ADD_EMAIL>>"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
 
@@ -34,7 +35,7 @@
 
 ## ⟢ About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=vanshthapa04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="420"/>
+<img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vanshthapa04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="420"/>
 
 Passionate **Full Stack Developer** focused on building scalable, modern web applications and AI-powered tools. I enjoy solving real-world problems through clean architecture, intuitive user experiences, and efficient backend systems.
 
@@ -259,10 +260,10 @@ A static resume doesn't showcase real engineering work. This portfolio presents 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanshthapa04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vanshthapa04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshthapa04&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshthapa04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vanshthapa04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" width="49%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=vanshthapa04&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="49%"/>
 
 </div>
@@ -290,7 +291,7 @@ A static resume doesn't showcase real engineering work. This portfolio presents 
 ## ⟢ Coding Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vanshthapa04&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&layout=compact" width="60%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=vanshthapa04&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&layout=compact" width="60%"/>
 
 <sub>Connect a WakaTime account to populate live coding-hour stats.</sub>
 </div>
@@ -350,9 +351,9 @@ I'm actively working toward contributing to and maintaining open-source develope
 
 <div align="center">
 
-<a href="<<ADD_LINKEDIN>>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="<<ADD_PORTFOLIO>>"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:<<ADD_EMAIL>>"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vansh-thapa-8b0169255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://vansh-portfolio-051.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:vanshthapa14988@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/vanshthapa04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
@@ -373,7 +374,9 @@ If you find my work useful, a star on any of my repositories goes a long way.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=120&section=footer" width="100%"/>
+---
+
+<sub>Thanks for stopping by.</sub>
 
 <sub>Designed &amp; maintained by <b>Vansh Thapa</b> · Built with intention, one commit at a time.</sub>
 
