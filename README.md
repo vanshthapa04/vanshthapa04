@@ -252,8 +252,7 @@ A static resume doesn't showcase real engineering work. This portfolio presents 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vanshthapa04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshthapa04&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="49%"/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vanshthapa04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=vanshthapa04&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vanshthapa04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" width="60%"/>
 
 </div>
 
@@ -273,16 +272,6 @@ A static resume doesn't showcase real engineering work. This portfolio presents 
 <img src="https://raw.githubusercontent.com/vanshthapa04/vanshthapa04/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — add the workflow to your profile repo to activate.</sub>
-</div>
-
-<br/>
-
-## ⟢ Coding Activity
-
-<div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=vanshthapa04&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&layout=compact" width="60%"/>
-
-<sub>Connect a WakaTime account to populate live coding-hour stats.</sub>
 </div>
 
 <br/>
